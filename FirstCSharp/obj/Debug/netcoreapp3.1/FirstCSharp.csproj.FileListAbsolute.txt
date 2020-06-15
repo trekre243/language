@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.exe
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.deps.json
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\tkrec\Downloads\c#\FirstCSharp\bin\Debug\netcoreapp3.1\FirstCSharp.pdb
+C:\Users\tkrec\Downloads\c#\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\tkrec\Downloads\c#\FirstCSharp\obj\Debug\netcoreapp3.1\FirstCSharp.pdb

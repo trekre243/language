@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\tkrec\Downloads\c#\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\tkrec\Downloads\c#\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\tkrec\Downloads\c#\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb

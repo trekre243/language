@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.exe
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.deps.json
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.dll
+C:\Users\tkrec\Downloads\c#\Phone\bin\Debug\netcoreapp3.1\Phone.pdb
+C:\Users\tkrec\Downloads\c#\Phone\obj\Debug\netcoreapp3.1\Phone.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\Phone\obj\Debug\netcoreapp3.1\Phone.dll
+C:\Users\tkrec\Downloads\c#\Phone\obj\Debug\netcoreapp3.1\Phone.pdb

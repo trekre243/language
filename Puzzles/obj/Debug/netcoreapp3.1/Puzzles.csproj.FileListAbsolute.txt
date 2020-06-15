@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\tkrec\Downloads\c#\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\tkrec\Downloads\c#\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\tkrec\Downloads\c#\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb

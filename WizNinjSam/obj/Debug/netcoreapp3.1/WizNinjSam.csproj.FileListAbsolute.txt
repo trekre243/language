@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\WizNinjSam\obj\Debug\netcoreapp3.1\WizNinjSam.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\WizNinjSam\obj\Debug\netcoreapp3.1\WizNinjSam.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\WizNinjSam\obj\Debug\netcoreapp3.1\WizNinjSam.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.exe
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.deps.json
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.dll
+C:\Users\tkrec\Downloads\c#\WizNinjSam\bin\Debug\netcoreapp3.1\WizNinjSam.pdb
+C:\Users\tkrec\Downloads\c#\WizNinjSam\obj\Debug\netcoreapp3.1\WizNinjSam.dll
+C:\Users\tkrec\Downloads\c#\WizNinjSam\obj\Debug\netcoreapp3.1\WizNinjSam.pdb

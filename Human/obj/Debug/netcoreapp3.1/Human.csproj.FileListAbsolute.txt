@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\Human\obj\Debug\netcoreapp3.1\Human.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.exe
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.deps.json
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.dll
+C:\Users\tkrec\Downloads\c#\Human\bin\Debug\netcoreapp3.1\Human.pdb
+C:\Users\tkrec\Downloads\c#\Human\obj\Debug\netcoreapp3.1\Human.dll
+C:\Users\tkrec\Downloads\c#\Human\obj\Debug\netcoreapp3.1\Human.pdb

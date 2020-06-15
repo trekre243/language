@@ -1,0 +1,11 @@
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.exe
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.deps.json
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.runtimeconfig.json
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.runtimeconfig.dev.json
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.dll
+C:\Users\tkrec\Downloads\c#\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.pdb
+C:\Users\tkrec\Downloads\c#\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.csprojAssemblyReference.cache
+C:\Users\tkrec\Downloads\c#\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.AssemblyInfoInputs.cache
+C:\Users\tkrec\Downloads\c#\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.AssemblyInfo.cs
+C:\Users\tkrec\Downloads\c#\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.dll
+C:\Users\tkrec\Downloads\c#\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.pdb
